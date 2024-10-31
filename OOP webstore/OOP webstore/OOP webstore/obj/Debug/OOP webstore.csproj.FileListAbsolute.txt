@@ -1,0 +1,14 @@
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\bin\Debug\OOP webstore.exe.config
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\bin\Debug\OOP webstore.exe
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\bin\Debug\OOP webstore.pdb
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP webstore.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP_webstore.FormLogin.resources
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP_webstore.FormMain.resources
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP_webstore.FormRegister.resources
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP_webstore.Properties.Resources.resources
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP webstore.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP webstore.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP webstore.exe
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP webstore.pdb
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP_webstore.FormUserCart.resources
+C:\Users\Andrew\source\repos\OOP webstore\OOP webstore\obj\Debug\OOP_webstore.FormPayment.resources
